@@ -1,4 +1,4 @@
-﻿# Real time chatapp
+﻿# EMS Hacktoberfest
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?color=blue&style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
